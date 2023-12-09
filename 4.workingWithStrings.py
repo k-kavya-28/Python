@@ -1,7 +1,7 @@
 print("Khushi\n\"Kavya\"")
 print("hello\bye")  # backslash can be printed anvi
 
-#concatenation
+#concatenation and some common functions that can be used with strings
 name = "Khushi Kavya"
 print(name + " is cool")
 print(name.lower())
