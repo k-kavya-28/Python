@@ -1,5 +1,8 @@
-print ("Roses are {color}")
-print ("{plural noun} are blue")
-print ("I love {celebrity}")
+color = input("Enter a color: ")
+plural_noun = input("Enter a plural noun: ")
+celebrity = input("Enter a celebrity: ")
 
-# 1.00.00 hours se vdo resume krna h
+print ("Roses are " + color)
+print (plural_noun +  " are blue")
+print ("I love " + celebrity)
+
