@@ -11,5 +11,5 @@ friends = ["Khushi", "Kavya", "Kriti", "Kritika"]
 # for index in range(3, 10):
 #     print("Current Index: ", index)
 
-for index in range(len(friends)):
+for index in range(len(friends)):   #ek kam tak hi jaega 
     print(friends[index])
